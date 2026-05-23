@@ -1,2 +1,2 @@
 # beginerproject
-small project regarding python codes.Although it is my first repository
+small project regarding python code.Although it is my first repository
